@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/projeto-beneficios-resultados/static/css/main.e6c13ad2.css",
+    "main.js": "/projeto-beneficios-resultados/static/js/main.d14c3fd1.js",
+    "static/js/453.fc2cf3ac.chunk.js": "/projeto-beneficios-resultados/static/js/453.fc2cf3ac.chunk.js",
+    "index.html": "/projeto-beneficios-resultados/index.html",
+    "main.e6c13ad2.css.map": "/projeto-beneficios-resultados/static/css/main.e6c13ad2.css.map",
+    "main.d14c3fd1.js.map": "/projeto-beneficios-resultados/static/js/main.d14c3fd1.js.map",
+    "453.fc2cf3ac.chunk.js.map": "/projeto-beneficios-resultados/static/js/453.fc2cf3ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d14c3fd1.js"
+  ]
+}
